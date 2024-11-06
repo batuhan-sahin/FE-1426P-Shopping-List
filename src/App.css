@@ -1,0 +1,8 @@
+.bought {
+  text-decoration: line-through;
+  color: red;
+}
+
+.pointer {
+  cursor: pointer;
+}
